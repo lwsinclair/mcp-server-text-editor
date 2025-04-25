@@ -1,3 +1,5 @@
+[![MseeP Badge](https://mseep.net/pr/bhouston-mcp-server-text-editor-badge.jpg)](https://mseep.ai/app/bhouston-mcp-server-text-editor)
+
 # Claude Text Editor MCP Server
 
 [![npm version](https://img.shields.io/npm/v/mcp-server-text-editor.svg)](https://www.npmjs.com/package/mcp-server-text-editor)
